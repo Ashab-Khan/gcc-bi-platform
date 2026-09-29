@@ -101,8 +101,8 @@ A Multi-Agent Business Intelligence platform that automatically researches, extr
 | Layer | Technology |
 |---|---|
 | UI | [Streamlit](https://streamlit.io) (Docker deployment) |
-| Orchestration | [LangGraph](https://langchain-ai.github.io/langgraph/) |
-| LLM | Llama 3.3 70B via [Groq](https://groq.com) |
+| Orchestration | Custom Python pipeline (sequential agent coordination) |
+| LLM | openai/gpt-oss-120b [Groq](https://groq.com) |
 | Web Search | [Tavily](https://tavily.com) |
 | Email | [SendGrid](https://sendgrid.com) |
 | Report Generation | [python-docx](https://python-docx.readthedocs.io) |
