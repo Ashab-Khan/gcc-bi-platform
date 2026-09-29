@@ -14,7 +14,7 @@ A Multi-Agent Business Intelligence platform that automatically researches, extr
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B)
-![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-orange)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-Pipeline-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
